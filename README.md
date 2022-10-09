@@ -1,7 +1,5 @@
 ### Event Manager - A simple MERN CRUD App ( MongoDB, Express, Node, React )
 
- **[🌐 Web Version ](https://eventbuilder.herokuapp.com "VISIT WEBSITE 🌐")**
-
 ### Working
 
 - A new user can be created
